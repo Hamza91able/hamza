@@ -1,0 +1,29 @@
+#container2{
+    display: none;
+}
+
+#div-decision{
+    display: none
+}
+
+#container3{
+    display: none
+}
+
+#container4{
+    display: none
+}
+
+.scoreboard {
+    border: 4px double grey;
+    border-radius: 20px;
+    padding: 40px;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 23px;
+    background-color: rgba(245, 245, 220, 0.637);
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
